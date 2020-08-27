@@ -1,0 +1,67 @@
+"Pathway","Pathway Name","Group","figheight"
+"hsa05204","Chemical carcinogenesis","Cancer",7
+"hsa05219","Bladder cancer","Cancer",7
+"hsa05200","Pathways in cancer","Cancer",25
+"hsa05202","Transcriptional misregulation in cancer","Cancer",15
+"hsa05205","Proteoglycans in cancer","Cancer",17
+"hsa05211","Renal cell carcinoma","Cancer",10
+"hsa05212","Pancreatic cancer","Cancer",10
+"hsa05214","Glioma","Cancer",10
+"hsa05215","Prostate cancer","Cancer",10
+"hsa05218","Melanoma","Cancer",10
+"hsa05221","Acute myeloid leukemia","Cancer",10
+"hsa05223","Non-small cell lung cancer","Cancer",10
+"hsa05230","Central carbon metabolism in cancer","Cancer",10
+"hsa05231","Choline metabolism in cancer","Cancer",10
+"hsa00010","Glycolysis / Gluconeogenesis","Carbohydrate metabolism",7
+"hsa00030","Pentose phosphate pathway","Carbohydrate metabolism",7
+"hsa00052","Galactose metabolism","Carbohydrate metabolism",7
+"hsa04913","Ovarian steroidogenesis","Endocrine system",7
+"hsa04910","Insulin signaling pathway","Endocrine system",15
+"hsa04912","GnRH signaling pathway","Endocrine system",12
+"hsa04914","Progesterone-mediated oocyte maturation","Endocrine system",10
+"hsa04917","Prolactin signaling pathway","Endocrine system",10
+"hsa04670","Leukocyte transendothelial migration","Immune system",12
+"hsa04611","Platelet activation","Immune system",12
+"hsa04612","Antigen processing and presentation","Immune system",7
+"hsa04620","Toll-like receptor signaling pathway","Immune system",12
+"hsa04622","RIG-I-like receptor signaling pathway","Immune system",10
+"hsa04664","Fc epsilon RI signaling pathway","Immune system",10
+"hsa04666","Fc gamma R-mediated phagocytosis","Immune system",12
+"hsa05100","Bacterial invasion of epithelial cells","Infectious disease",12
+"hsa05110","Vibrio cholerae infection","Infectious disease",10
+"hsa05120","Epithelial cell signaling in Helicobacter pylori infection","Infectious disease",10
+"hsa05132","Salmonella infection","Infectious disease",12
+"hsa05133","Pertussis","Infectious disease",10
+"hsa05134","Legionellosis","Infectious disease",10
+"hsa05142","Chagas disease (American trypanosomiasis)","Infectious disease",12
+"hsa05146","Amoebiasis","Infectious disease",12
+"hsa05152","Tuberculosis","Infectious disease",15
+"hsa05160","Hepatitis C","Infectious disease",12
+"hsa05161","Hepatitis B","Infectious disease",12
+"hsa04977","Vitamin digestion and absorption","Other",6
+"hsa05032","Morphine addiction","Other",10
+"hsa03008","Ribosome biogenesis in eukaryotes","Other",7
+"hsa04115","p53 signaling pathway","Other",10
+"hsa00564","Glycerophospholipid metabolism","Other",10
+"hsa04320","Dorso-ventral axis formation","Other",7
+"hsa04380","Osteoclast differentiation","Other",15
+"hsa04510","Focal adhesion","Other",18
+"hsa04520","Adherens junction","Other",10
+"hsa04721","Synaptic vesicle cycle","Other",10
+"hsa04810","Regulation of actin cytoskeleton","Other",20
+"hsa05014","Amyotrophic lateral sclerosis (ALS)","Other",7
+"hsa05034","Alcoholism","Other",15
+"hsa05340","Primary immunodeficiency","Other",7
+"hsa04010","MAPK signaling pathway","Signal transduction",20
+"hsa04012","ErbB signaling pathway","Signal transduction",10
+"hsa04015","Rap1 signaling pathway","Signal transduction",15
+"hsa04066","HIF-1 signaling pathway","Signal transduction",12
+"hsa04068","FoxO signaling pathway","Signal transduction",12
+"hsa04151","PI3K-Akt signaling pathway","Signal transduction",25
+"hsa04152","AMPK signaling pathway","Signal transduction",12
+"hsa04370","VEGF signaling pathway","Signal transduction",10
+"hsa04630","JAK-STAT signaling pathway","Signal transduction",12
+"hsa04668","TNF signaling pathway","Signal transduction",12
+"hsa04142","Lysosome","Transport and catabolism",12
+"hsa04145","Phagosome","Transport and catabolism",15
