@@ -2,7 +2,7 @@
 Code and metadata associated with project: 
 ## Sepsis-associated pathways segregate cancer groups 
 Himanshu Tripathi, Samanwoy Mukhopadhyay &amp; Saroj Kant Mohapatra
-[a link] (https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-06774-9)
+- (https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-06774-9)
 ## Summary
 Transcriptome-based systems biology approach segregates cancer into two groups ((termed Sepsis-Like Cancer, or SLC and Cancer Alone, or CA) based on similarity with SS. Host response to infection plays a key role in pathogenesis of SS and SLC. However, we hypothesize that some component of the host response is protective in both SS and SLC.
 ## How to set up data and code for analysis
